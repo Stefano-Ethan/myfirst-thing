@@ -1,3 +1,7 @@
+* {
+  padding: 5px;
+  margin: 5px;
+}
 /* Main Section */
 .main {
   background: linear-gradient(#eee, white, white, white, #eee, #eee, #ccc);
@@ -29,4 +33,13 @@
 
 .main h5, .main h6 {
   font-weight: bold;
+}
+
+/* Container Section */
+.contain {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Calibri Light', sans-serif;
 }
