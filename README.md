@@ -5,7 +5,6 @@ Full documentation :
 + <div class="wrap"> contains everything, use once.
 + <div class="row"> starts new row, repeat for each new additional row
 + <div class="column-#"> defines how many columns to span, insert for # a no. 1 - 12
-+Ex.
 ```
 <div class="wrap">
   <div class="row">
