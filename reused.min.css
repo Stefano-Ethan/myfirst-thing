@@ -6,3 +6,9 @@ font-family: 'Georgia', serif;}.main h1, .main h2, .main h3, .main h4, .main h5,
 font-family: 'Calibri Light', sans-serif;} .main h1 {font-size: 20vh;} .main h2 {font-size: 15vh;} .main h3 {font-size: 10vh;}
 .main h4 {font-size: 5vh;} .main h5, .main h6 {font-weight: bold;} .contain {text-align: left;} h1, h2, h3, h4, h5, h6 {
 font-family: 'Calibri Light', sans-serif;}
+*, *:before, *:after {margin: 0px;padding: 0px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;} 
+img {width: auto;max-width: 100%;} .wrap {width: 100%;margin: 0 auto;} .wrap:after, .row:after {content: "";display: table;clear: both;} 
+[class*="column-"] {float: left;padding: 1em;width: 100%;min-height: 1px;} @media only screen and (min-width: 30em) { 
+.wrap {width: auto;max-width: 65em;} .column-1 {width: 7.33333%;} .column-2 {width: 15.66666%;} .column-3 {width: 24%;} .column-4 {
+width: 32%;} .column-5 {width: 40.66666%;} .column-6 {width: 49%;} .column-7 {width: 57.33333%;} .column-8 {width: 65.66666%;} .column-9 
+{width: 74%;} .column-10 {width: 82.33333%;} .column-11 {width: 90.66666%;} .column-12 {width: 99%;}}
