@@ -1,1 +1,8 @@
-
+* {padding: 5px;margin: 5px;} .main {background: linear-gradient(#eee, white, white, white, #eee, #eee, #ccc);
+background: -webkit-linear-gradient(#eee, white, white, white, #eee, #eee, #ccc);background: 
+-o-linear-gradient(#eee, white, white, white, #eee, #eee, #ccc);background: 
+-moz-linear-gradient(#eee, white, white, white, #eee, #eee, #ccc);
+font-family: 'Georgia', serif;}.main h1, .main h2, .main h3, .main h4, .main h5, ,.main h6 {
+font-family: 'Calibri Light', sans-serif;} .main h1 {font-size: 20vh;} .main h2 {font-size: 15vh;} .main h3 {font-size: 10vh;}
+.main h4 {font-size: 5vh;} .main h5, .main h6 {font-weight: bold;} .contain {text-align: left;} h1, h2, h3, h4, h5, h6 {
+font-family: 'Calibri Light', sans-serif;}
