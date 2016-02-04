@@ -1,7 +1,58 @@
 /* Buttons */
 
+.ghost {
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid #00cccc;
+  transition: border 0.5s, background-color 0.5s;
+}
+
+.ghost:hover {
+  border: 1px solid #fff;
+  background-color: #00cccc;
+}
+
 /* Forms */
+
+input {
+  border-radius: 10px;
+}
+
+.block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.block-n-grid {
+  display: block;
+  margin-left: 0px;
+  margin-right: auto;
+}
 
 /* Lists */
 
+.nav {
+  display: inline;
+  border-radius: 15px 50px;
+  list-style-type: none;
+}
+
+.clear-dot {
+  list-style-type: none;
+}
+
 /* Tables */
+
+.head-table {
+  font-weight: bold;
+  background-color: #bbb;
+}
+
+.background {
+  background-color: #ddd;
+}
+
+.background-alt table:nth-of-type(2n) {
+  background-color: #ddd;
+}
