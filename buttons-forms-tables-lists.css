@@ -53,6 +53,6 @@ input {
   background-color: #ddd;
 }
 
-.background-alt table:nth-of-type(2n) {
+.background-alt tr:nth-of-type(2n) {
   background-color: #ddd;
 }
